@@ -1,0 +1,6 @@
+[submodule "recuto_backend"]
+	path = recuto_backend
+	url = https://github.com/rguptatgm/recuto_backend.git
+[submodule "recuto_frontend"]
+	path = recuto_frontend
+	url = https://github.com/rguptatgm/recuto_frontend.git
